@@ -1,0 +1,13 @@
+.carousel-inner{
+    height: 300px;
+    width: 100%;
+    position: relative;
+    img{
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: auto;
+      top: 0;
+      object-fit: cover;
+    }
+  }
